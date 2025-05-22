@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Agnivesh Patel
 
-<!--
-**agni21/agni21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer based in Bengaluru, India, with over 10 years of experience building fast, scalable, and user-friendly applications. I specialize in **React**, **Angular**, **Node.js**, and **Micro Frontend Architectures**.
 
-Here are some ideas to get you started:
+### 🚀 Currently
+- 👨‍💻 Working as SDE III at [SpotOn](https://www.spoton.com), building modular frontend systems
+- 🧱 Contributing to internal design systems and performance optimization
+- 💬 Exploring better developer workflows and tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** React, Angular, TypeScript, Tailwind, Redux, Next.js
+- **Backend:** Node.js, Java, Python, REST APIs
+- **Tools:** Webpack, Storybook, TanStack Query, Chart.js
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+### 🌱 Previously
+- Led frontend development at **Cuspera** and **GlowRoad (Acquired by Amazon)**
+- Scaled apps to thousands of dynamic pages with SEO & Core Web Vitals in mind
+- Built full-stack e-commerce and real-time systems
+
+### 💬 Outside Work
+- 🚴‍♂️ Cyclist, runner, and backpacker
+- 🌍 Passionate about climate action and social justice
+
+---
+
+📫 **Let’s connect:** [LinkedIn](https://linkedin.com/in/agniveshpatel) • [Email](mailto:agniveshpatel@gmail.com)
+
